@@ -8,7 +8,7 @@ conda create -n fchatbot python=3.8 -y
 '''bash
 conda activate fchatbot
 '''
-
+'''conda activate'''
 
 
 '''bash 
